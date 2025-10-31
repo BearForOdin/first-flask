@@ -49,18 +49,6 @@ Then open your browser and visit:
 
 ---
 
-## ⚙️ Project Structure
-```
-.
-├── app.py              # Main Flask application
-├── templates/          # HTML templates
-├── static/             # Static files (CSS, JS, images)
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
-```
-
----
-
 ## 🧰 Requirements
 - Python 3.8 or higher  
 - Flask  
